@@ -29,3 +29,7 @@ IIUI Services Mobile App for University
  - About Us
  - Rate Us
  
+# -------------Project UI Screen Shots--------------
+#         --------Splash Screen----------
+
+(https://github.com/malikakmal352/TakeCare-System/blob/main/iiu img/iiu-1.png?raw=true)
