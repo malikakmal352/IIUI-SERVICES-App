@@ -32,4 +32,4 @@ IIUI Services Mobile App for University
 # -------------Project UI Screen Shots--------------
 #         --------Splash Screen----------
 
-https://github.com/malikakmal352/IIUI-SERVICES-App/blob/main/iiu%20img/iiu-1.png
+![homepage](https://github.com/malikakmal352/IIUI-SERVICES-App/blob/main/iiu%20img/iiu-1.png?raw=true)
